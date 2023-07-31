@@ -54,3 +54,7 @@ streamlit run app.py
 - A big thank you to Fruityvice for providing such an amazing API.
 - Our appreciation goes to the Streamlit community for developing such an intuitive web application framework.
 
+
+
+
+⭐️ Please give a star to this repository
